@@ -302,4 +302,33 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+Screenshots:
+<img width="1508" height="957" alt="image" src="https://github.com/user-attachments/assets/54089530-9137-4c37-aee2-c23b5f05046b" />
+
+<img width="1547" height="991" alt="image" src="https://github.com/user-attachments/assets/a3660f79-85a3-43bf-8597-8b7f9f666c93" />
+
+<img width="1567" height="1041" alt="image" src="https://github.com/user-attachments/assets/290fa647-6e95-4b73-9ca2-38087006abcc" />
+
+<img width="1562" height="955" alt="image" src="https://github.com/user-attachments/assets/613ea278-74d9-4c3c-a7ed-f3f33685dd8b" />
+
+<img width="1548" height="652" alt="image" src="https://github.com/user-attachments/assets/15683405-f315-44c6-9bb8-99a55c056058" />
+
+<img width="1556" height="916" alt="image" src="https://github.com/user-attachments/assets/a5b84cba-6d8b-48b7-8e44-c391a9e4ff04" />
+
+<img width="1557" height="802" alt="image" src="https://github.com/user-attachments/assets/27e764d9-0ef3-4da0-8b69-67aae2cfcc07" />
+
+<img width="1549" height="1043" alt="image" src="https://github.com/user-attachments/assets/48f17d4a-47c0-4205-a654-1b89e8dfd85c" />
+
+<img width="1555" height="1040" alt="image" src="https://github.com/user-attachments/assets/e8f97bf4-2dd4-41df-a0d3-7a6c9c952a67" />
+
+<img width="1548" height="864" alt="image" src="https://github.com/user-attachments/assets/5aac99e8-ba5c-4a16-b02c-7b1f662231b5" />
+
+<img width="1553" height="690" alt="image" src="https://github.com/user-attachments/assets/15381117-6ff0-4d3c-b2c6-761787bb0db0" />
+
+<img width="1557" height="1042" alt="image" src="https://github.com/user-attachments/assets/a181a883-7f44-43c0-a0f0-6d4ead7b49e3" />
+
+<img width="1558" height="1042" alt="image" src="https://github.com/user-attachments/assets/78aa7b22-4646-4c81-bcc2-1fd40ab945f9" />
+
+<img width="1551" height="1047" alt="image" src="https://github.com/user-attachments/assets/d2bdf163-daeb-48a6-8050-bb2eba4b96b0" />
+
 **© 2025 DeFi Risk Analyzer - All Rights Reserved**
